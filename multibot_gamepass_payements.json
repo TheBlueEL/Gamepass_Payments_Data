@@ -23,5 +23,17 @@
     "Activated": true,
     "UsernameID": 1289440978,
     "PaymentID": "8-JslCB-4z3AHngNwyzC8Vmy1Hof_J7g"
+  },
+  "Gamepass #2": {
+    "Name": "BDM #2",
+    "Description": "This is a gamepass for BDM #2",
+    "Price": 7693,
+    "Image": "https://raw.githubusercontent.com/TheBlueEL/pictures/refs/heads/main/bluediamond_gamepass.png",
+    "UniverseId": 9020915666,
+    "GamepassId": null,
+    "Created": false,
+    "Buyed": false,
+    "UsernameID": 1289440978,
+    "PaymentID": "2Ufdo4.6u47XBIFLjegkzzTrHE_yCbY9"
   }
 }
