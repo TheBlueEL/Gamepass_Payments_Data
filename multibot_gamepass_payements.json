@@ -138,10 +138,12 @@
     "Price": 7693,
     "Image": "https://raw.githubusercontent.com/TheBlueEL/pictures/refs/heads/main/bluediamond_gamepass.png",
     "UniverseId": 9020915666,
-    "GamepassId": null,
-    "Created": false,
+    "GamepassId": 1575571969,
+    "Created": true,
     "Buyed": false,
     "UsernameID": 1289440978,
-    "PaymentID": "RWT3LRquvtRY6-OUYEcNfvzDtvMem.aC"
+    "PaymentID": "RWT3LRquvtRY6-OUYEcNfvzDtvMem.aC",
+    "Activated": true,
+    "date": "2025-11-08T22:38:05.802Z"
   }
 }
